@@ -2,5 +2,8 @@ domain: connorbrooks.me/
 
 url: http://connorbrooks.me/
 
+plugins:
+  - jekyll-remote-theme
 
+remote_theme: ankitsultana/researcher
 
