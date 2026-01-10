@@ -1,6 +1,6 @@
 domain: connorbrooks.me/
 
-url: http://connorbrooks.me/
+url: https//connorbrooks.me/
 
 plugins:
   - jekyll-remote-theme
