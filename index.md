@@ -10,10 +10,10 @@ in my second semester and aspiring professional in the STEM field with a focus o
 I am pursuing a B.E. in Computer Engineering through Victor Valley Community College and planning on transferring to a UC after 2 years.
 
 ### Course Progression
-
-Year 10 ████████ **Cisco ITE** 
+```
+Year 10 ████████ **Cisco ITE**
 Year 11 ████████████ **CCNA 1** 
 Year 12 ████████████████ **CCNA 2**  
-
+```
 
 
