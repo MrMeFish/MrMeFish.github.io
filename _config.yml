@@ -1,11 +1,8 @@
-domain: connorbrooks.me/
-
+title: Connor Brooks
 url: https//connorbrooks.me/
-
+baseurl: ""
 plugins:
   - jekyll-remote-theme
 
 remote_theme: ankitsultana/researcher
-
-title: Connor Brooks
 
